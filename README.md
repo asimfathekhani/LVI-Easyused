@@ -19,7 +19,7 @@ The test video on many datasets is available on **YouTube** (click below images 
   ```shell
   mkdir -p ~/catkin_ws/src 
   cd ~/catkin_ws/src
-  git clone https://github.com/Cc19245/LVI-SAM-Easyused
+  git clone https://github.com/asimfathekhani/LVI-Easyused
   git checkout new
   cd ..
   catkin_make
