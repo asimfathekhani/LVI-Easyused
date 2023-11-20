@@ -45,7 +45,7 @@ You can use the following commands to download and compile the package.
 ```shell
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
-git clone https://github.com/Cc19245/LVI-SAM-Easyused
+git clone https://github.com/asimfathekhani/LVI-Easyused
 cd ..
 catkin_make
 ```
